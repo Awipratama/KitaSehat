@@ -1,0 +1,11 @@
+com.kitasehat.app
+color black
+color white
+id btnMulai
+layout activity_beranda
+layout activity_main
+string app_name
+string beranda_text
+string btn_mulai
+string welcome_text
+style Theme_KitaSehat
