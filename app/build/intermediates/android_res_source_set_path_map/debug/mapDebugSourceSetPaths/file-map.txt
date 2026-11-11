@@ -1,34 +1,34 @@
-com.kitasehat.app-fragment-1.5.4-0 /home/awipratama/.gradle/caches/9.1.0/transforms/0236ee2d326d285fc3d64d777e3b2d70/transformed/fragment-1.5.4/res
-com.kitasehat.app-lifecycle-livedata-2.6.2-1 /home/awipratama/.gradle/caches/9.1.0/transforms/1bfc612735e878478e3ad3ee593a172e/transformed/lifecycle-livedata-2.6.2/res
-com.kitasehat.app-constraintlayout-2.1.4-2 /home/awipratama/.gradle/caches/9.1.0/transforms/25b312a09c9dbca181dbedfb82f8d9db/transformed/constraintlayout-2.1.4/res
-com.kitasehat.app-coordinatorlayout-1.1.0-3 /home/awipratama/.gradle/caches/9.1.0/transforms/347df67c88778c765c4277c0eb588379/transformed/coordinatorlayout-1.1.0/res
-com.kitasehat.app-core-1.13.0-4 /home/awipratama/.gradle/caches/9.1.0/transforms/34a6c016aa83420b044cc5ef2c667b2d/transformed/core-1.13.0/res
-com.kitasehat.app-material-1.12.0-5 /home/awipratama/.gradle/caches/9.1.0/transforms/4853d7a532918060f0e282a45fbcb044/transformed/material-1.12.0/res
-com.kitasehat.app-lifecycle-viewmodel-2.6.2-6 /home/awipratama/.gradle/caches/9.1.0/transforms/4a1f57247fc036464e49712cd9f5d83f/transformed/lifecycle-viewmodel-2.6.2/res
-com.kitasehat.app-activity-1.8.0-7 /home/awipratama/.gradle/caches/9.1.0/transforms/4a30d7baab76d3d57bb99240627a15eb/transformed/activity-1.8.0/res
-com.kitasehat.app-profileinstaller-1.3.1-8 /home/awipratama/.gradle/caches/9.1.0/transforms/4be0c69f510332bec28f8a7af4b32a14/transformed/profileinstaller-1.3.1/res
-com.kitasehat.app-lifecycle-livedata-core-2.6.2-9 /home/awipratama/.gradle/caches/9.1.0/transforms/6cfe794d1cbd7e98a8cc9c357efc9084/transformed/lifecycle-livedata-core-2.6.2/res
-com.kitasehat.app-viewpager2-1.0.0-10 /home/awipratama/.gradle/caches/9.1.0/transforms/7d41ce6bd9877951f70e844be49146d5/transformed/viewpager2-1.0.0/res
-com.kitasehat.app-savedstate-1.2.1-11 /home/awipratama/.gradle/caches/9.1.0/transforms/813d47a39351d8e522b34a1f433d1e71/transformed/savedstate-1.2.1/res
-com.kitasehat.app-lifecycle-runtime-2.6.2-12 /home/awipratama/.gradle/caches/9.1.0/transforms/83d06e84d8dddd1a96d10186dec705ab/transformed/lifecycle-runtime-2.6.2/res
-com.kitasehat.app-core-ktx-1.13.0-13 /home/awipratama/.gradle/caches/9.1.0/transforms/85a0285e5c9dbc11244f437f3a730c17/transformed/core-ktx-1.13.0/res
-com.kitasehat.app-appcompat-1.7.0-14 /home/awipratama/.gradle/caches/9.1.0/transforms/92aa530b0f842a422bc0ca29f310333c/transformed/appcompat-1.7.0/res
-com.kitasehat.app-transition-1.5.0-15 /home/awipratama/.gradle/caches/9.1.0/transforms/a5b6f1c048192954d3db815d572e66ba/transformed/transition-1.5.0/res
-com.kitasehat.app-startup-runtime-1.1.1-16 /home/awipratama/.gradle/caches/9.1.0/transforms/a96179964773bed38e89ac75706c9f29/transformed/startup-runtime-1.1.1/res
-com.kitasehat.app-core-runtime-2.2.0-17 /home/awipratama/.gradle/caches/9.1.0/transforms/b91a08fb7066fe0954e9c7f2018af3f3/transformed/core-runtime-2.2.0/res
-com.kitasehat.app-recyclerview-1.1.0-18 /home/awipratama/.gradle/caches/9.1.0/transforms/ba39ea3e54eeaed0afa354a925b8d390/transformed/recyclerview-1.1.0/res
-com.kitasehat.app-emoji2-1.3.0-19 /home/awipratama/.gradle/caches/9.1.0/transforms/ba65d0205204f8d2f45363e4759817fc/transformed/emoji2-1.3.0/res
-com.kitasehat.app-appcompat-resources-1.7.0-20 /home/awipratama/.gradle/caches/9.1.0/transforms/c2a8db719c2a3fb79b9faf692de0266a/transformed/appcompat-resources-1.7.0/res
-com.kitasehat.app-lifecycle-viewmodel-savedstate-2.6.2-21 /home/awipratama/.gradle/caches/9.1.0/transforms/c6ba137c1b233e2a8795ab39f466d199/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
-com.kitasehat.app-lifecycle-process-2.6.2-22 /home/awipratama/.gradle/caches/9.1.0/transforms/c9bf1c37ba445ecb121be6b20e000446/transformed/lifecycle-process-2.6.2/res
-com.kitasehat.app-annotation-experimental-1.4.0-23 /home/awipratama/.gradle/caches/9.1.0/transforms/ca4aa862fd1d01fe7c4dca89349af40d/transformed/annotation-experimental-1.4.0/res
-com.kitasehat.app-cardview-1.0.0-24 /home/awipratama/.gradle/caches/9.1.0/transforms/f0d3a09c94da1253eaf24bcd929ef798/transformed/cardview-1.0.0/res
-com.kitasehat.app-emoji2-views-helper-1.3.0-25 /home/awipratama/.gradle/caches/9.1.0/transforms/f33d6935619fdc906d9ab7f9934c95f1/transformed/emoji2-views-helper-1.3.0/res
-com.kitasehat.app-drawerlayout-1.1.1-26 /home/awipratama/.gradle/caches/9.1.0/transforms/f81dc9d030eec0601d726ed5000e2775/transformed/drawerlayout-1.1.1/res
-com.kitasehat.app-pngs-27 /home/awipratama/Projects/KitaSehat/app/build/generated/res/pngs/debug
-com.kitasehat.app-updated_navigation_xml-28 /home/awipratama/Projects/KitaSehat/app/build/generated/updated_navigation_xml/debug
-com.kitasehat.app-packageDebugResources-29 /home/awipratama/Projects/KitaSehat/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.kitasehat.app-packageDebugResources-30 /home/awipratama/Projects/KitaSehat/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.kitasehat.app-debug-31 /home/awipratama/Projects/KitaSehat/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.kitasehat.app-debug-32 /home/awipratama/Projects/KitaSehat/app/src/debug/res
-com.kitasehat.app-main-33 /home/awipratama/Projects/KitaSehat/app/src/main/res
+com.kitasehat.app-fragment-1.5.4-0 C:\Users\awipr\.gradle\caches\9.1.0\transforms\0236ee2d326d285fc3d64d777e3b2d70\workspace\transformed\fragment-1.5.4\res
+com.kitasehat.app-lifecycle-livedata-2.6.2-1 C:\Users\awipr\.gradle\caches\9.1.0\transforms\1bfc612735e878478e3ad3ee593a172e\workspace\transformed\lifecycle-livedata-2.6.2\res
+com.kitasehat.app-constraintlayout-2.1.4-2 C:\Users\awipr\.gradle\caches\9.1.0\transforms\25b312a09c9dbca181dbedfb82f8d9db\workspace\transformed\constraintlayout-2.1.4\res
+com.kitasehat.app-coordinatorlayout-1.1.0-3 C:\Users\awipr\.gradle\caches\9.1.0\transforms\347df67c88778c765c4277c0eb588379\workspace\transformed\coordinatorlayout-1.1.0\res
+com.kitasehat.app-core-1.13.0-4 C:\Users\awipr\.gradle\caches\9.1.0\transforms\34a6c016aa83420b044cc5ef2c667b2d\workspace\transformed\core-1.13.0\res
+com.kitasehat.app-material-1.12.0-5 C:\Users\awipr\.gradle\caches\9.1.0\transforms\4853d7a532918060f0e282a45fbcb044\workspace\transformed\material-1.12.0\res
+com.kitasehat.app-lifecycle-viewmodel-2.6.2-6 C:\Users\awipr\.gradle\caches\9.1.0\transforms\4a1f57247fc036464e49712cd9f5d83f\workspace\transformed\lifecycle-viewmodel-2.6.2\res
+com.kitasehat.app-activity-1.8.0-7 C:\Users\awipr\.gradle\caches\9.1.0\transforms\4a30d7baab76d3d57bb99240627a15eb\workspace\transformed\activity-1.8.0\res
+com.kitasehat.app-profileinstaller-1.3.1-8 C:\Users\awipr\.gradle\caches\9.1.0\transforms\4be0c69f510332bec28f8a7af4b32a14\workspace\transformed\profileinstaller-1.3.1\res
+com.kitasehat.app-lifecycle-livedata-core-2.6.2-9 C:\Users\awipr\.gradle\caches\9.1.0\transforms\6cfe794d1cbd7e98a8cc9c357efc9084\workspace\transformed\lifecycle-livedata-core-2.6.2\res
+com.kitasehat.app-viewpager2-1.0.0-10 C:\Users\awipr\.gradle\caches\9.1.0\transforms\7d41ce6bd9877951f70e844be49146d5\workspace\transformed\viewpager2-1.0.0\res
+com.kitasehat.app-savedstate-1.2.1-11 C:\Users\awipr\.gradle\caches\9.1.0\transforms\813d47a39351d8e522b34a1f433d1e71\workspace\transformed\savedstate-1.2.1\res
+com.kitasehat.app-lifecycle-runtime-2.6.2-12 C:\Users\awipr\.gradle\caches\9.1.0\transforms\83d06e84d8dddd1a96d10186dec705ab\workspace\transformed\lifecycle-runtime-2.6.2\res
+com.kitasehat.app-core-ktx-1.13.0-13 C:\Users\awipr\.gradle\caches\9.1.0\transforms\85a0285e5c9dbc11244f437f3a730c17\workspace\transformed\core-ktx-1.13.0\res
+com.kitasehat.app-appcompat-1.7.0-14 C:\Users\awipr\.gradle\caches\9.1.0\transforms\92aa530b0f842a422bc0ca29f310333c\workspace\transformed\appcompat-1.7.0\res
+com.kitasehat.app-transition-1.5.0-15 C:\Users\awipr\.gradle\caches\9.1.0\transforms\a5b6f1c048192954d3db815d572e66ba\workspace\transformed\transition-1.5.0\res
+com.kitasehat.app-startup-runtime-1.1.1-16 C:\Users\awipr\.gradle\caches\9.1.0\transforms\a96179964773bed38e89ac75706c9f29\workspace\transformed\startup-runtime-1.1.1\res
+com.kitasehat.app-core-runtime-2.2.0-17 C:\Users\awipr\.gradle\caches\9.1.0\transforms\b91a08fb7066fe0954e9c7f2018af3f3\workspace\transformed\core-runtime-2.2.0\res
+com.kitasehat.app-recyclerview-1.1.0-18 C:\Users\awipr\.gradle\caches\9.1.0\transforms\ba39ea3e54eeaed0afa354a925b8d390\workspace\transformed\recyclerview-1.1.0\res
+com.kitasehat.app-emoji2-1.3.0-19 C:\Users\awipr\.gradle\caches\9.1.0\transforms\ba65d0205204f8d2f45363e4759817fc\workspace\transformed\emoji2-1.3.0\res
+com.kitasehat.app-appcompat-resources-1.7.0-20 C:\Users\awipr\.gradle\caches\9.1.0\transforms\c2a8db719c2a3fb79b9faf692de0266a\workspace\transformed\appcompat-resources-1.7.0\res
+com.kitasehat.app-lifecycle-viewmodel-savedstate-2.6.2-21 C:\Users\awipr\.gradle\caches\9.1.0\transforms\c6ba137c1b233e2a8795ab39f466d199\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.kitasehat.app-lifecycle-process-2.6.2-22 C:\Users\awipr\.gradle\caches\9.1.0\transforms\c9bf1c37ba445ecb121be6b20e000446\workspace\transformed\lifecycle-process-2.6.2\res
+com.kitasehat.app-annotation-experimental-1.4.0-23 C:\Users\awipr\.gradle\caches\9.1.0\transforms\ca4aa862fd1d01fe7c4dca89349af40d\workspace\transformed\annotation-experimental-1.4.0\res
+com.kitasehat.app-cardview-1.0.0-24 C:\Users\awipr\.gradle\caches\9.1.0\transforms\f0d3a09c94da1253eaf24bcd929ef798\workspace\transformed\cardview-1.0.0\res
+com.kitasehat.app-emoji2-views-helper-1.3.0-25 C:\Users\awipr\.gradle\caches\9.1.0\transforms\f33d6935619fdc906d9ab7f9934c95f1\workspace\transformed\emoji2-views-helper-1.3.0\res
+com.kitasehat.app-drawerlayout-1.1.1-26 C:\Users\awipr\.gradle\caches\9.1.0\transforms\f81dc9d030eec0601d726ed5000e2775\workspace\transformed\drawerlayout-1.1.1\res
+com.kitasehat.app-pngs-27 D:\Android Project\KitaSehat\app\build\generated\res\pngs\debug
+com.kitasehat.app-updated_navigation_xml-28 D:\Android Project\KitaSehat\app\build\generated\updated_navigation_xml\debug
+com.kitasehat.app-packageDebugResources-29 D:\Android Project\KitaSehat\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.kitasehat.app-packageDebugResources-30 D:\Android Project\KitaSehat\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.kitasehat.app-debug-31 D:\Android Project\KitaSehat\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.kitasehat.app-debug-32 D:\Android Project\KitaSehat\app\src\debug\res
+com.kitasehat.app-main-33 D:\Android Project\KitaSehat\app\src\main\res

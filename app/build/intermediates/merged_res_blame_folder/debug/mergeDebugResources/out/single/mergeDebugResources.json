@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/awipratama/.gradle/daemon/9.1.0/com.kitasehat.app-debug-30:/layout_activity_main.xml.flat",
-        "source": "/home/awipratama/.gradle/daemon/9.1.0/com.kitasehat.app-main-32:/layout/activity_main.xml"
-    },
-    {
         "merged": "com.kitasehat.app-debug-30:/layout_activity_beranda.xml.flat",
         "source": "com.kitasehat.app-main-32:/layout/activity_beranda.xml"
     },

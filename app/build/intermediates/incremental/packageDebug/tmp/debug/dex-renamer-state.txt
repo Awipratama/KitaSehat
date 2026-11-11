@@ -1,8 +1,8 @@
-#Thu Oct 29 18:57:14 WITA 2026
-base.0=/home/awipratama/Projects/KitaSehat/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/home/awipratama/Projects/KitaSehat/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/home/awipratama/Projects/KitaSehat/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
-base.3=/home/awipratama/Projects/KitaSehat/app/build/intermediates/global_synthetics_dex/debug/mergeDebugGlobalSynthetics/classes.dex
+#Wed Nov 11 20:32:44 WITA 2026
+base.0=D\:\\Android Project\\KitaSehat\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\Android Project\\KitaSehat\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\Android Project\\KitaSehat\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.3=D\:\\Android Project\\KitaSehat\\app\\build\\intermediates\\global_synthetics_dex\\debug\\mergeDebugGlobalSynthetics\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=12/classes.dex
