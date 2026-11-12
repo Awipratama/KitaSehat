@@ -1,13 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="KitaSehat"
-        android:theme="@style/Theme.KitaSehat">
-        <activity android:name=".MainActivity" android:exported="true">
+    <application android:label="KitaSehat" android:theme="@style/Theme.KitaSehat">
+        <activity android:name=".SplashActivity" android:exported="true" android:theme="@style/Theme.KitaSehat.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
+        <activity android:name=".MainActivity" android:exported="false"/>
 
         <activity android:name=".BerandaActivity" android:exported="false"/>
     </application>

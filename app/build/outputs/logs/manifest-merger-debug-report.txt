@@ -77,25 +77,33 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\awipr\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.0] C:\Users\awipr\.gradle\caches\9.1.0\transforms\34a6c016aa83420b044cc5ef2c667b2d\workspace\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:3:9-34
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:2:18-43
 	android:theme
-		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:4:9-47
-activity#com.kitasehat.app.MainActivity
-ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:5:9-10:20
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:2:44-82
+activity#com.kitasehat.app.SplashActivity
+ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:3:9-8:20
 	android:exported
-		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:5:48-71
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:3:50-73
+	android:theme
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:3:74-119
 	android:name
-		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:5:19-47
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:3:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:6:13-9:29
+ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:4:13-7:29
 action#android.intent.action.MAIN
-ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:7:17-68
+ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:5:17-68
 	android:name
-		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:7:25-66
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:5:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:8:17-76
+ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:6:17-76
 	android:name
-		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:8:27-74
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:6:27-74
+activity#com.kitasehat.app.MainActivity
+ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:10:9-74
+	android:exported
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:10:48-72
+	android:name
+		ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:10:19-47
 activity#com.kitasehat.app.BerandaActivity
 ADDED from D:\Android Project\KitaSehat\app\src\main\AndroidManifest.xml:12:9-77
 	android:exported

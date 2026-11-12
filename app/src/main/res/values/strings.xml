@@ -4,4 +4,5 @@
     <string name="welcome_text">KitaSehat</string>
     <string name="btn_mulai">Mulai</string>
     <string name="beranda_text">Selamat datang di Beranda KitaSehat</string>
+    <string name="logo_desc">Logo KitaSehat</string>
 </resources>

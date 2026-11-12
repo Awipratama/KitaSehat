@@ -1,11 +1,17 @@
 com.kitasehat.app
 color black
+color splash_bg
 color white
+drawable no_bg
+drawable splash_bg
 id btnMulai
 layout activity_beranda
 layout activity_main
+layout activity_splash
 string app_name
 string beranda_text
 string btn_mulai
+string logo_desc
 string welcome_text
 style Theme_KitaSehat
+style Theme_KitaSehat_Splash

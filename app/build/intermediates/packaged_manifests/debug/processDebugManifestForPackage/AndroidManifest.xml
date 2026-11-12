@@ -21,14 +21,18 @@
         android:label="KitaSehat"
         android:theme="@style/Theme.KitaSehat" >
         <activity
-            android:name="com.kitasehat.app.MainActivity"
-            android:exported="true" >
+            android:name="com.kitasehat.app.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.KitaSehat.Splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.kitasehat.app.MainActivity"
+            android:exported="false" />
         <activity
             android:name="com.kitasehat.app.BerandaActivity"
             android:exported="false" />

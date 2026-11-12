@@ -1,12 +1,18 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color splash_bg
 color white
+drawable no_bg
+drawable splash_bg
 id btnMulai
 layout activity_beranda
 layout activity_main
+layout activity_splash
 string app_name
 string beranda_text
 string btn_mulai
+string logo_desc
 string welcome_text
 style Theme.KitaSehat
+style Theme.KitaSehat.Splash
